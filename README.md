@@ -14,6 +14,7 @@
 
 
 
+
 <code><img height="40" src="https://user-images.githubusercontent.com/62192868/124782624-8ffc3800-df6e-11eb-87bf-a37d579fda54.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/62192868/124781265-75758f00-df6d-11eb-8f15-af7353efa991.png"></code>
 
@@ -27,7 +28,7 @@
 
 <code><img height="40" src="https://user-images.githubusercontent.com/62192868/124783259-23ce0400-df6f-11eb-8f88-ef0894bfb2fc.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/62192868/124783481-4d872b00-df6f-11eb-8210-9401ca0c09c7.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/62192868/124783644-6d1e5380-df6f-11eb-8df3-5fcfa4520f8d.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/62192868/124840997-6bc44980-dfb6-11eb-8e5b-3b0d4026944b.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=hoagf&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoagf&count_private=true&theme=radical" alt="Jas-Script" />
