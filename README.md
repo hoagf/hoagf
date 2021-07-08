@@ -34,7 +34,7 @@
 <code><img height="40" src="https://user-images.githubusercontent.com/62192868/124841932-a4fdb900-dfb8-11eb-81a5-f8c35b5695de.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/62192868/124842083-f9089d80-dfb8-11eb-8ca0-e042e0c7f25b.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hoagf&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
+<img src ="https://metrics.lecoq.io/hoagf?template=classic" alt = "Jaskirat's GitHub Stats"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoagf&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoagf&count_private=true&theme=radical" alt="Jas-Script" />
 
