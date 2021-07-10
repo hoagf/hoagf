@@ -5,6 +5,7 @@
 **About Me!**
 
 - 👨🏽‍💻 Studying software engineering
+- 💻 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [truongvanhoangbk@gmail.com](mailto:truongvanhoangbk@gmail.com).
 
