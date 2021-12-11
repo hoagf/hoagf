@@ -1,11 +1,6 @@
 
 # Hey, Hoang here!
 
-  
-
-  
-   `All we really need to survive is one person who truly loves us`
-
 
 
 
